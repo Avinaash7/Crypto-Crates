@@ -5,6 +5,13 @@ Crypto Crates is a Web3-native platform that enables users to create, publish, a
 
 The project allows anyone to build custom stock baskets, publish them permissionlessly, and display cryptographically verified P&L and NAV calculations—without storing sensitive or heavy financial data on-chain.
 
+## ✨ Figma Designs
+[Figma Link](https://www.figma.com/proto/ll03bbaPH1fB6BcHD8YpuI/Ziptos?page-id=191%3A366&node-id=3346-3600&viewport=747%2C-289%2C0.1&t=jGI5Xdb1XRLsO4ru-1&scaling=contain&content-scaling=fixed&starting-point-node-id=3276%3A3132&show-proto-sidebar=1)
+
+<img width="502" height="535" alt="image" src="https://github.com/user-attachments/assets/d7c2a1dd-b6d0-49bc-ad72-24014e8384c2" />
+
+<img width="724" height="526" alt="image" src="https://github.com/user-attachments/assets/e1155895-a947-40e6-82a5-4fcb2c78509b" />
+
 ---
 
 ## ✨ Features
